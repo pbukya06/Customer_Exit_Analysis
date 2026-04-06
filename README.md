@@ -75,4 +75,4 @@ This project demonstrates:
 End-to-end data analysis using Power BI
 Data cleaning and transformation using Power Query
 Building interactive dashboards
-Generating business insights for decision-making
+Generating business insights for decision-making.
